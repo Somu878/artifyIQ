@@ -16,7 +16,7 @@ const Sidebar = () => {
           <Image
             src={"/assets/images/logo-no-background.png"}
             alt="logo"
-            width={160}
+            width={180}
             height={28}
           />
         </Link>
